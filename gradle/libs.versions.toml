@@ -1,0 +1,11 @@
+[versions]
+composeBom = "2026.09.00"
+activity = "1.13.0"
+
+[libraries]
+compose-bom = { group = "androidx.compose", name = "compose-bom", version.ref = "composeBom" }
+compose-foundation = { group = "androidx.compose.foundation", name = "foundation" }
+compose-material3 = { group = "androidx.compose.material3", name = "material3" }
+compose-ui = { group = "androidx.compose.ui", name = "ui" }
+compose-ui-graphics = { group = "androidx.compose.ui", name = "ui-graphics" }
+activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activity" }
