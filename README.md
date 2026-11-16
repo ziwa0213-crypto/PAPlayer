@@ -10,7 +10,7 @@ Kotlin · Jetpack Compose · minSdk 33
 
 开发中。目前只有工程骨架：设计令牌与空壳首页。
 
-前身是 [Codex Music](https://github.com/ziwa0213-crypto/CodexMusic)，已停止开发。
+前身是 [codeX Music](https://github.com/ziwa0213-crypto/CodexMusic)，已停止开发。
 
 ## 构建
 
